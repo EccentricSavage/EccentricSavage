@@ -1,14 +1,14 @@
 Hi 👋 My name is Storm Savage
 =============================
 
-Aspiring Software Engineer
+Software Engineer
 --------------------------
 
 While pursuing a degree in Physics, I discovered my love of programming and solving all manners of problems via code. Since then I have never stopped improving my skills.
 
 *   🌍  I'm based in South Africa
 *   ✉️  You can contact me at [stormsjsavage@gmail.com](mailto:stormsjsavage@gmail.com)
-*   🧠  I'm currently learning React
+*   🧠  I'm currently learning VueJs
 *   🤝  I'm open to collaborating on projects
 
 ### Skills 
