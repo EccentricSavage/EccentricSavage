@@ -8,7 +8,7 @@ While pursuing a degree in Physics, I discovered my love of programming and solv
 
 *   🌍  I'm based in South Africa
 *   ✉️  You can contact me at [stormsjsavage@gmail.com](mailto:stormsjsavage@gmail.com)
-*   🧠  I'm currently learning VueJs
+*   🧠  I'm currently using Django, VueJs, Quasar and PostgreSQL for full stack development
 *   🤝  I'm open to collaborating on projects
 
 ### Skills 
